@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548604655815.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2909037707",
+    "id" : "A27743E5",
+    "lastKnownWriteTime" : 1548604680,
+    "last_content_update" : 1548604680445,
+    "path" : "~/Dropbox/DataScience/R/WD/rcppacf/src/rollAcf.cpp",
+    "project_path" : "src/rollAcf.cpp",
+    "properties" : {
+        "cursorPosition" : "5,28",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}

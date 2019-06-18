@@ -1,0 +1,20 @@
+{
+    "args" : [
+        "-I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include",
+        "-I/Library/Developer/CommandLineTools/usr/include/c++/v1",
+        "-I/usr/local/include",
+        "-I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include",
+        "-I/Library/Developer/CommandLineTools/usr/include",
+        "-I/usr/include",
+        "-I/Users/martin/.R/lib/Rcpp/include",
+        "-I/usr/local/Cellar/r/3.5.2_2/lib/R/include",
+        "-DNDEBUG",
+        "-I/usr/local/opt/gettext/include",
+        "-I/usr/local/opt/readline/include",
+        "-I/usr/local/include",
+        "-fPIC"
+    ],
+    "hash" : "1548604605",
+    "is_cpp" : true,
+    "pch" : "Rcpp"
+}

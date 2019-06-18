@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548604637290.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "371721091",
+    "id" : "BCED2E13",
+    "lastKnownWriteTime" : 1548604654,
+    "last_content_update" : 1548604654911,
+    "path" : "~/Dropbox/DataScience/R/WD/rcppacf/src/recAcf.cpp",
+    "project_path" : "src/recAcf.cpp",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}

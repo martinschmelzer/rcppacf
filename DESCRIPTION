@@ -1,0 +1,13 @@
+Package: rcppacf
+Type: Package
+Title: Efficient computation of autocorrelation functions
+Version: 1.0
+Date: 2019-01-27
+Author: c(person("Christoph", "Hanck", "christoph.hanck@uni-due.de", role = c("aut", "cre")),
+          person("Martin", "Schmelzer", "schmelzer.martin@gmx.de", role = c("cre")))
+Maintainer: Martin Schmelzer <schmelzer.martin@gmx.de>
+Description: This package provides the Rcpp functions `recAcf` and `rollAcf` to efficiently compute recursive
+  and rolling autocorrelation functions.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.0)
+LinkingTo: Rcpp

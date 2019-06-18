@@ -1,0 +1,32 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 15,
+                "file" : "/Users/martin/Dropbox/DataScience/R/WD/rcppacf/src/recAcf.cpp",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "recAcf(int, Rcpp::List, Rcpp::NumericVector, Rcpp::NumericVector)",
+                "parent_name" : "",
+                "usr" : "c:@F@recAcf#I#$@N@Rcpp@S@Vector>#VI19#@N@Rcpp@ST>1#T@PreserveStorage#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S1_#"
+            }
+        ],
+        "file" : "/Users/martin/Dropbox/DataScience/R/WD/rcppacf/src/recAcf.cpp",
+        "file_last_write" : 1548604654.000000
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 15,
+                "file" : "/Users/martin/Dropbox/DataScience/R/WD/rcppacf/src/rollAcf.cpp",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "rollAcf(int, double, Rcpp::NumericMatrix, Rcpp::NumericVector, Rcpp::List)",
+                "parent_name" : "",
+                "usr" : "c:@F@rollAcf#I#d#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#$@N@Rcpp@S@Vector>#VI19#@N@Rcpp@ST>1#T@PreserveStorage#"
+            }
+        ],
+        "file" : "/Users/martin/Dropbox/DataScience/R/WD/rcppacf/src/rollAcf.cpp",
+        "file_last_write" : 1548604680.000000
+    }
+]

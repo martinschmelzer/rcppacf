@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560837492901.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2482205828",
+    "id" : "7CC8E734",
+    "lastKnownWriteTime" : 1560837499,
+    "last_content_update" : 1560837499525,
+    "path" : "~/Desktop/rcppacf/man/rollAcf.Rd",
+    "project_path" : "man/rollAcf.Rd",
+    "properties" : {
+        "cursorPosition" : "7,20",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
